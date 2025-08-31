@@ -52,7 +52,7 @@ Project playable from the [Home Page](https://danielecampione.github.io/)
 
 Una suite completa di calcolatrici scritta in HTML5, CSS3 e JavaScript che include strumenti multipli per calcoli matematici, grafici di funzioni e conversioni di unità.
 
-Progetto giocabile dalla [Home Page](https://danielecampione.github.io/)
+Progetto eseguibile dalla [Home Page](https://danielecampione.github.io/)
 
 ## Caratteristiche
 
